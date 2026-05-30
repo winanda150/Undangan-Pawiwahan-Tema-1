@@ -1,5 +1,9 @@
 ## 💍 Pawiwahan Theme 1 – Digital Wedding Invitation
 
+<p align="center">
+  <img src="Elemen/Elemen%20Pendukung/Pawiwahan-Theme-1.png" alt="Pawiwahan Theme 1 Preview" width="900">
+</p>
+
 Pawiwahan adalah tradisi pernikahan dalam budaya Bali yang memiliki makna sakral serta penuh nilai adat dan budaya.
 
 Website ini dirancang sebagai undangan pernikahan digital berbasis web (tema ke-1) dengan desain modern, elegan, dan responsif. Project ini menggabungkan nuansa budaya Bali dengan tampilan website yang modern, minimalis, dan nyaman digunakan di berbagai perangkat.
